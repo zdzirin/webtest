@@ -20,7 +20,7 @@ btn.addEventListener("click", async () => {
   const shareData = {
     title: "Broadway Boogie Woogie",
     text: "Piet Mondrian's excellent painting!",
-    //files: [file],
+    files: [file],
   };
 
   try {
