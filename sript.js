@@ -1,3 +1,6 @@
+console.log('ayyy')
+
+
 const btn = document.getElementById("share");
 const h1 = document.getElementById("header");
 
